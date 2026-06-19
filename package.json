@@ -1,0 +1,18 @@
+{
+  "name": "aastha-ayurveda-website",
+  "version": "1.0.0",
+  "description": "Premium Ayurvedic clinic & training academy website for Aastha Ayurveda",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y browser-sync start --server --files \"*.html, css/*.css, js/*.js\""
+  },
+  "keywords": [
+    "ayurveda",
+    "healthcare",
+    "panchakarma",
+    "clinic",
+    "training"
+  ],
+  "author": "Antigravity AI",
+  "license": "ISC"
+}

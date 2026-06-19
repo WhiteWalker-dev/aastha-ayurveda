@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Local/system files
+.system_generated/
+.gemini/
+*.log
+.DS_Store
+Thumbs.db
