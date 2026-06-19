@@ -1679,6 +1679,21 @@ p {
   font-size: 0.95rem;
 }
 
+.contact-card .contact-link {
+  font-weight: 700;
+  color: var(--primary-dark);
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  border-bottom: 1.5px dashed transparent;
+  transition: var(--transition-smooth);
+}
+
+.contact-card .contact-link:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
 .contact-main-grid {
   display: grid;
   gap: 4rem;
